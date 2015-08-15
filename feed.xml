@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Saxena</title>
+    <description>Hi, I&#39;m Abhishek Saxena. I&#39;m a Software Engineer, Code Geek, Singer, Guitarist and a Gamer.
+</description>
+    <link>http://abhisheksaxena7.bitbucket.org//</link>
+    <atom:link href="http://abhisheksaxena7.bitbucket.org//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 15 Aug 2015 22:44:52 +0530</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2015 22:44:52 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Debut with Blogging!!</title>
+        <description>&lt;h3 id=&quot;hello-fellas&quot;&gt;Hello Fellas!!&lt;/h3&gt;
+
+&lt;p&gt;Since past few weeks I’ve been really bored with the daily monotony. Waking up at 5, going to gym, swimming and then &lt;strong&gt;nothing&lt;/strong&gt;. I was simply &lt;strong&gt;procrastinating&lt;/strong&gt;. I even deactivated whatsapp/facebook to stop this. I started a few things like learning &lt;code&gt;Spanish&lt;/code&gt; and it felt good studying a totally new language, but the charisma, spark and excitement I felt while &lt;code&gt;programming&lt;/code&gt; was missing.&lt;/p&gt;
+
+&lt;p&gt;I created my last website a long time back and since then my interest in web development had also decreased, but a website for myself was long due. So one day when I stumbled onto &lt;code&gt;Jekyll&lt;/code&gt; while looking at a friend’s website created on it. I was suddenly craving to make one for myself. I started browsing about it. I had some experience using &lt;code&gt;git&lt;/code&gt; but didn’t know much anything about &lt;code&gt;jekyll&lt;/code&gt; so I started googling about it, and hours and hours later this is the result in front of all of you. My own personalized Jekyll based website. Made up from scratch in less than a day :).&lt;/p&gt;
+
+&lt;p&gt;I hope you guys appreciate the content I’ll be posting. If you have any suggestions for this website feel free to post a comment below and let me know about the topics you’d like to read about.
+&lt;br /&gt;
+Cheers to the new begining!!&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Aug 2015 15:22:00 +0530</pubDate>
+        <link>http://abhisheksaxena7.bitbucket.org//blog/2015/08/15/Welcome%20to%20my%20site/</link>
+        <guid isPermaLink="true">http://abhisheksaxena7.bitbucket.org//blog/2015/08/15/Welcome%20to%20my%20site/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
