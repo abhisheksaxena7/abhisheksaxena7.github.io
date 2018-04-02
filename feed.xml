@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abhishek Saxena</title>
-    <description>Hi, I&#39;m Abhishek Saxena. I&#39;m a Software Engineer, Code Geek, Singer, Guitarist and a Gamer.
+    <description>Code-Geek, Singer, Guitarist, Foodie and a Gamer.
 </description>
-    <link>http://abhisheksaxena.in//</link>
-    <atom:link href="http://abhisheksaxena.in//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 16 Jul 2016 20:39:23 +0530</pubDate>
-    <lastBuildDate>Sat, 16 Jul 2016 20:39:23 +0530</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 02 Apr 2018 22:25:01 +0530</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 22:25:01 +0530</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>Running away from the vicious social media cloud</title>
-        <description>&lt;p&gt;This is the era of &lt;code&gt;social networking websites&lt;/code&gt;, pouts/duck-dog-cat faces on Snapchat and Instagram, cats and memes on Facebook/Twitter, chain messages on Whatsapp we’re all addicted to at least one of these. Our media consumption is increasing day by day as we drown ourselves in these platforms.&lt;/p&gt;
+        <description>&lt;p&gt;This is the era of &lt;code class=&quot;highlighter-rouge&quot;&gt;social networking websites&lt;/code&gt;, pouts/duck-dog-cat faces on Snapchat and Instagram, cats and memes on Facebook/Twitter, chain messages on Whatsapp we’re all addicted to at least one of these. Our media consumption is increasing day by day as we drown ourselves in these platforms.&lt;/p&gt;
 
 &lt;p&gt;Undoubtedly they’re beneficial to us but to what extent? We’re getting so addicted to it that we’re losing control and succumbing to the temptation. During this period of my life when I had literally no pressure of exams/studies/job I also made the mistake of caving in, but I soon realized the trap and decided to quit Facebook and Whatsapp for a while.&lt;/p&gt;
 
 &lt;p&gt;I missed it for a while but once I started investing my time in other hobbies and learning other things like Spanish, Python, Guitar etc! I felt much better.
-One of the changes I brought out in my social media world was the quality of content I was spending my time on, for this I switched to &lt;code&gt;Quora&lt;/code&gt; and &lt;code&gt;Reddit&lt;/code&gt;. For those of you who are relatively unaware of these platforms, I would give you a brief overview of them.&lt;/p&gt;
+One of the changes I brought out in my social media world was the quality of content I was spending my time on, for this I switched to &lt;code class=&quot;highlighter-rouge&quot;&gt;Quora&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Reddit&lt;/code&gt;. For those of you who are relatively unaware of these platforms, I would give you a brief overview of them.&lt;/p&gt;
 
 &lt;p&gt;Quora is a Question and Answer based website where users can post queries related to any subject be it science/sports/personal life/hobbies/career counselling just to name a few, and then other users who have better understanding of the subject matter can attempt to answer those questions. These questions and answer both can be upvoted and/or promoted by the audience/OP to make it popular and appear on the feed of other users who’re following that topic.&lt;/p&gt;
 
@@ -30,26 +30,26 @@ I recommend following at least one of these platforms and actually benefit from 
 
 </description>
         <pubDate>Fri, 23 Oct 2015 14:54:00 +0530</pubDate>
-        <link>http://abhisheksaxena.in//random/2015/10/23/Social%20media/</link>
-        <guid isPermaLink="true">http://abhisheksaxena.in//random/2015/10/23/Social%20media/</guid>
+        <link>http://localhost:4000/random/2015/10/23/Social-media/</link>
+        <guid isPermaLink="true">http://localhost:4000/random/2015/10/23/Social-media/</guid>
         
         
-        <category>random</category>
+        <category>Random</category>
         
       </item>
     
       <item>
         <title>Romance with the languages, pun intended</title>
-        <description>&lt;h3 id=&quot;hola-amigos&quot;&gt;Hola amigos!!&lt;/h3&gt;
+        <description>&lt;p&gt;###Hola amigos!!&lt;/p&gt;
 
-&lt;p&gt;Still enjoying the break before my joining. Things were going slow and dull and after learning &lt;code&gt;Python&lt;/code&gt; last month and I was searching for something else which I could pursue.
-This time I yearned to learn something in a totally new genre. I had learnt quite a few things in &lt;code&gt;Software Engineering&lt;/code&gt;, &lt;code&gt;Music&lt;/code&gt; and &lt;code&gt;outdoor/indoor games&lt;/code&gt;. I was searching something totally bizarre. That’s when I thought that “Hey, I’ve learned plenty of computer languages why not go for a real spoken language this time.” That’s when I decided I’d be learning a new language, just for fun.&lt;/p&gt;
+&lt;p&gt;Still enjoying the break before my joining. Things were going slow and dull and after learning &lt;code class=&quot;highlighter-rouge&quot;&gt;Python&lt;/code&gt; last month and I was searching for something else which I could pursue.
+This time I yearned to learn something in a totally new genre. I had learnt quite a few things in &lt;code class=&quot;highlighter-rouge&quot;&gt;Software Engineering&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Music&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;outdoor/indoor games&lt;/code&gt;. I was searching something totally bizarre. That’s when I thought that “Hey, I’ve learned plenty of computer languages why not go for a real spoken language this time.” That’s when I decided I’d be learning a new language, just for fun.&lt;/p&gt;
 
 &lt;p&gt;So I started looking out for the perfect language to start with. I had Japanese, German, French, and Spanish in my mind, so I started narrowing down my choices.
-After a lot of research I stumbled onto one of the most beautiful Romance languages: &lt;code&gt;Spanish&lt;/code&gt;. Mostly since it is the one of the most spoken languages in the world. Most of the US speaks it which is a dream for any IT graduate to visit (&lt;code&gt;SILICON VALLEY&lt;/code&gt; &lt;strong&gt;Yikes!!!&lt;/strong&gt;).&lt;/p&gt;
+After a lot of research I stumbled onto one of the most beautiful Romance languages: &lt;code class=&quot;highlighter-rouge&quot;&gt;Spanish&lt;/code&gt;. Mostly since it is the one of the most spoken languages in the world. Most of the US speaks it which is a dream for any IT graduate to visit (&lt;code class=&quot;highlighter-rouge&quot;&gt;SILICON VALLEY&lt;/code&gt; &lt;strong&gt;Yikes!!!&lt;/strong&gt;).&lt;/p&gt;
 
 &lt;p&gt;So the journey started with &lt;a href=&quot;https://www.duolingo.com/&quot;&gt;Duolingo&lt;/a&gt; being my mentor, but wait did you know, you’re much more motivated to achieve a goal if you do it with someone?
-Of course you guys know it, as the old adage goes “If you want to go fast go alone, but if you want to travel far go together”! So I found my grand-mother to be my partner in this journey! Yeah you read that right, my grand-mother. She’s uber cool. She retired from the &lt;code&gt;Rajasthan University&lt;/code&gt; as the &lt;code&gt;H.O.D.&lt;/code&gt;, Economics Department. Awesome, ikr?&lt;/p&gt;
+Of course you guys know it, as the old adage goes “If you want to go fast go alone, but if you want to travel far go together”! So I found my grand-mother to be my partner in this journey! Yeah you read that right, my grand-mother. She’s uber cool. She retired from the &lt;code class=&quot;highlighter-rouge&quot;&gt;Rajasthan University&lt;/code&gt; as the &lt;code class=&quot;highlighter-rouge&quot;&gt;H.O.D.&lt;/code&gt;, Economics Department. Awesome, ikr?&lt;/p&gt;
 
 &lt;p&gt;Both of us have started this wonderful journey and practice the language every day, doing home-works, maintaining notes, revising stuff, trying to talk in Spanish with each other, confusing other family members and what not. It’s been a month or so and both of us are pretty good at elementary Español.&lt;/p&gt;
 
@@ -60,55 +60,55 @@ To describe the journey in a few words I’d ask you one question “Can you ima
 
 </description>
         <pubDate>Tue, 08 Sep 2015 14:54:00 +0530</pubDate>
-        <link>http://abhisheksaxena.in//language/2015/09/08/Romance%20with%20languages/</link>
-        <guid isPermaLink="true">http://abhisheksaxena.in//language/2015/09/08/Romance%20with%20languages/</guid>
+        <link>http://localhost:4000/language/2015/09/08/Romance-with-languages/</link>
+        <guid isPermaLink="true">http://localhost:4000/language/2015/09/08/Romance-with-languages/</guid>
         
         
-        <category>language</category>
+        <category>Language</category>
         
       </item>
     
       <item>
-        <title>Soundcloud Covers and OC&#39;s!!</title>
-        <description>&lt;h3 id=&quot;hi-friends&quot;&gt;Hi friends,&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Music&lt;/strong&gt; is something which calms the soul and directly soothes the mind and body together. Some like to listen to it and others who are more blessed with talents of playback, composing; make music!.&lt;/p&gt;
+        <title>Soundcloud Covers and OC's!!</title>
+        <description>&lt;p&gt;###Hi friends,
+&lt;strong&gt;Music&lt;/strong&gt; is something which calms the soul and directly soothes the mind and body together. Some like to listen to it and others who are more blessed with talents of playback, composing; make music!.&lt;/p&gt;
 
 &lt;p&gt;My love for music started off pretty early. I was always a choir student in my school. I remember how I used to be the only guy in the front row feeling so shy as I was surrounded by 2 girls on my right and 2 on my left. I learned playing synthesiser when I was in 2&lt;sup&gt;nd&lt;/sup&gt; standard. Now apart from singing, I had also started playing synth in the class assembly.&lt;/p&gt;
 
-&lt;p&gt;Numerous competitions and years later I developed a taste for western music when I was introduced to one of the &lt;code&gt;cult&lt;/code&gt; band of our generation &lt;code&gt;Linkin Park&lt;/code&gt;. Then later on &lt;code&gt;EMINEM&lt;/code&gt; became my &lt;code&gt;Rap-God&lt;/code&gt;. Seeing my passion for music, my grandmother bought me my first acoustic Guitar. Now I wanted to learn &lt;strong&gt;Guitar&lt;/strong&gt;!! So there I was learning Guitar at summer classes, at the end of those 15 days I had learnt the basics of it and on the gala night of the classes I even performed with one of the most famous bands in our city &lt;code&gt;The Oceans&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Numerous competitions and years later I developed a taste for western music when I was introduced to one of the &lt;code class=&quot;highlighter-rouge&quot;&gt;cult&lt;/code&gt; band of our generation &lt;code class=&quot;highlighter-rouge&quot;&gt;Linkin Park&lt;/code&gt;. Then later on &lt;code class=&quot;highlighter-rouge&quot;&gt;EMINEM&lt;/code&gt; became my &lt;code class=&quot;highlighter-rouge&quot;&gt;Rap-God&lt;/code&gt;. Seeing my passion for music, my grandmother bought me my first acoustic Guitar. Now I wanted to learn &lt;strong&gt;Guitar&lt;/strong&gt;!! So there I was learning Guitar at summer classes, at the end of those 15 days I had learnt the basics of it and on the gala night of the classes I even performed with one of the most famous bands in our city &lt;code class=&quot;highlighter-rouge&quot;&gt;The Oceans&lt;/code&gt;.&lt;/p&gt;
 
-&lt;p&gt;Well things went slow until I met one of my friend who played &lt;code&gt;Electric Guitar&lt;/code&gt;. He inspired me to learn guitar further. So I bought a shining new &lt;code&gt;ESP-F10&lt;/code&gt; and the journey continued. I joined my college band &lt;code&gt;Sarhad&lt;/code&gt; performed with them on many occasions, played as a solo artist on separate occasions. Music still remains not a hobby but a passion and the journey continues!!. Here are some of my songs which I have recorded these past few years. I hope you like them. Feel free to comment and let me know your views.&lt;/p&gt;
+&lt;p&gt;Well things went slow until I met one of my friend who played &lt;code class=&quot;highlighter-rouge&quot;&gt;Electric Guitar&lt;/code&gt;. He inspired me to learn guitar further. So I bought a shining new &lt;code class=&quot;highlighter-rouge&quot;&gt;ESP-F10&lt;/code&gt; and the journey continued. I joined my college band &lt;code class=&quot;highlighter-rouge&quot;&gt;Sarhad&lt;/code&gt; performed with them on many occasions, played as a solo artist on separate occasions. Music still remains not a hobby but a passion and the journey continues!!. Here are some of my songs which I have recorded these past few years. I hope you like them. Feel free to comment and let me know your views.&lt;/p&gt;
 
-&lt;p&gt;You could find me on &lt;a href=&quot;http://soundcloud.com/abhisheksaxena7&quot;&gt;SoundCloud&lt;/a&gt; where my songs have been played more than &lt;code&gt;15K&lt;/code&gt; times and still counting :)&lt;/p&gt;
+&lt;p&gt;You could find me on &lt;a href=&quot;http://soundcloud.com/abhisheksaxena7&quot;&gt;SoundCloud&lt;/a&gt; where my songs have been played more than &lt;code class=&quot;highlighter-rouge&quot;&gt;15K&lt;/code&gt; times and still counting :)&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 16 Aug 2015 14:54:00 +0530</pubDate>
-        <link>http://abhisheksaxena.in//music/2015/08/16/My%20tracks/</link>
-        <guid isPermaLink="true">http://abhisheksaxena.in//music/2015/08/16/My%20tracks/</guid>
+        <link>http://localhost:4000/music/2015/08/16/My-tracks/</link>
+        <guid isPermaLink="true">http://localhost:4000/music/2015/08/16/My-tracks/</guid>
         
         
-        <category>music</category>
+        <category>Music</category>
         
       </item>
     
       <item>
         <title>Debut with Blogging!!</title>
-        <description>&lt;h3 id=&quot;hello-fellas&quot;&gt;Hello Fellas!!&lt;/h3&gt;
+        <description>&lt;p&gt;###Hello Fellas!!&lt;/p&gt;
 
-&lt;p&gt;Since past few weeks I’ve been really bored with the daily monotony. Waking up at 5, going to gym, swimming and then &lt;strong&gt;nothing&lt;/strong&gt;. I was simply &lt;strong&gt;procrastinating&lt;/strong&gt;. I even deactivated whatsapp/facebook to stop this. I started a few things like learning &lt;code&gt;Spanish&lt;/code&gt; and it felt good studying a totally new language, but the charisma, spark and excitement I felt while &lt;code&gt;programming&lt;/code&gt; was missing.&lt;/p&gt;
+&lt;p&gt;Since past few weeks I’ve been really bored with the daily monotony. Waking up at 5, going to gym, swimming and then &lt;strong&gt;nothing&lt;/strong&gt;. I was simply &lt;strong&gt;procrastinating&lt;/strong&gt;. I even deactivated whatsapp/facebook to stop this. I started a few things like learning &lt;code class=&quot;highlighter-rouge&quot;&gt;Spanish&lt;/code&gt; and it felt good studying a totally new language, but the charisma, spark and excitement I felt while &lt;code class=&quot;highlighter-rouge&quot;&gt;programming&lt;/code&gt; was missing.&lt;/p&gt;
 
-&lt;p&gt;I created my last website a long time back and since then my interest in web development had also decreased, but a website for myself was long due. So one day when I stumbled onto &lt;code&gt;Jekyll&lt;/code&gt; while looking at a friend’s website created on it. I was suddenly craving to make one for myself. I started browsing about it. I had some experience using &lt;code&gt;git&lt;/code&gt; but didn’t know much anything about &lt;code&gt;jekyll&lt;/code&gt; so I started googling about it, and hours and hours later this is the result in front of all of you. My own personalized Jekyll based website. Made up from scratch in less than a day :).&lt;/p&gt;
+&lt;p&gt;I created my last website a long time back and since then my interest in web development had also decreased, but a website for myself was long due. So one day when I stumbled onto &lt;code class=&quot;highlighter-rouge&quot;&gt;Jekyll&lt;/code&gt; while looking at a friend’s website created on it. I was suddenly craving to make one for myself. I started browsing about it. I had some experience using &lt;code class=&quot;highlighter-rouge&quot;&gt;git&lt;/code&gt; but didn’t know much anything about &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll&lt;/code&gt; so I started googling about it, and hours and hours later this is the result in front of all of you. My own personalized Jekyll based website. Made up from scratch in less than a day :).&lt;/p&gt;
 
 &lt;p&gt;I hope you guys appreciate the content I’ll be posting. If you have any suggestions for this website feel free to post a comment below and let me know about the topics you’d like to read about.
 &lt;br /&gt;
 Cheers to the new beginning!!&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Aug 2015 15:22:00 +0530</pubDate>
-        <link>http://abhisheksaxena.in//blog/2015/08/15/Welcome%20to%20my%20site/</link>
-        <guid isPermaLink="true">http://abhisheksaxena.in//blog/2015/08/15/Welcome%20to%20my%20site/</guid>
+        <link>http://localhost:4000/blog/2015/08/15/Welcome-to-my-site/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015/08/15/Welcome-to-my-site/</guid>
         
         
-        <category>blog</category>
+        <category>Blog</category>
         
       </item>
     
